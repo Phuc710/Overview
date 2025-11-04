@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2011+Developer+trẻ+tuổi+💻;Website:+https://nguyenmanhhieu.info.vn//+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Phúc+Dev!+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2005+Coder+Củ+Chi+💻;Website:+https://phucdev.xo.je/+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -12,25 +12,37 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
 </div>
 
+---
+
 ## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="350" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://nguyenmanhhieu.info.vn//;🔥+Username:+Nguoibianhz;📅+Born:+2011+Age+14;🚀+Status:+Young+Developer;🇻🇳+Location:+Kien+Giang+Vietnam;💖+Passion:+Coding+and+Innovation;❤️Crush:LinhNhi" alt="Personal Info Animation" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <div style="background-color: #f8d7da; border: 3px solid #dc3545; border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); max-width: 380px; text-align: center; margin: 10px;">
+    <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="100%" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+    <h3 style="color: #dc3545; margin-top: 15px; font-family: 'JetBrains Mono', monospace; font-size: 1.5em;">🔥 CODER CỦ CHI 🔥</h3>
+  </div>
+
+  <div style="background-color: #e0f7fa; border: 3px solid #007bff; border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.4); max-width: 450px; text-align: center; margin: 10px; display: flex; flex-direction: column; justify-content: space-around;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=DC3545&multiline=true&width=400&height=250&lines=👤+Name:+Nguyễn+Thanh+Phúc;🌐+Bio:+phucdev.xo.je;🔥+Username:+Nguoibianhz;📅+Born:+07/10/2005;🚀+Status:+Coder+Củ+Chi;🇻🇳+Location:+Ho+Chi+Minh,+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" style="margin-bottom: 20px;" />
+    
+    <div style="display: flex; justify-content: center; gap: 15px;">
+      <a href="https://phucdev.xo.je/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/MY%20BIO-007bff?style=for-the-badge&logo=About.me&logoColor=white&labelColor=007bff&color=007bff" alt="Bio Button"/>
+      </a>
+      <a href="https://github.com/Nguoibianhz" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/GITHUB-007bff?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=007bff&color=007bff" alt="GitHub Button"/>
+      </a>
+    </div>
+  </div>
 </div>
+
+---
 
 ## 🎯 VỀ BẢN THÂN - ABOUT ME
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trìn;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;❤️+Tôi+làm+mọi+thứ+tôi+thích+về+công+nghệ;📫+Hãy+tham+quan+dự+án+và+bio+của+tôi;⚡+Fact:+Thường+dùng+AI+để+code+hihi!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình+và+phát+triển+bản+thân;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;❤️+Tôi+làm+mọi+thứ+tôi+thích+về+công+nghệ;📫+Hãy+tham+quan+dự+án+và+bio+của+tôi;⚡+Fact:+Thường+dùng+AI+để+code+hihi!" alt="About Me Animation" />
 </div>
 
 <div align="center">
@@ -38,6 +50,8 @@
   <img src="https://flagcdn.com/w40/vn.png" alt="Vietnam Flag"/>
   <img src="https://flagcdn.com/w40/vn.png" alt="Vietnam Flag"/>
 </div>
+
+---
 
 ## 🌸 CÂU NÓI HAY - INSPIRATIONAL QUOTES
 
@@ -61,6 +75,8 @@
   </table>
 </div>
 
+---
+
 ## 💫 PHẦN VUI - FUN SECTION
 
 <details>
@@ -73,6 +89,8 @@
   <em><b>🇻🇳 Tôi yêu thích kết nối với mọi người</b> nên nếu bạn muốn <b>chào hỏi, tôi sẽ rất vui được làm quen!</b> 😊 <b>Vietnam Strong! 🇻🇳</b></em>
 </div>
 </details>
+
+---
 
 ## 🌟 LƯỢT XEM PROFILE - PROFILE VIEWS
 
